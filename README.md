@@ -4,7 +4,7 @@
 This project analyzes and predicts student performance using machine learning and statistical techniques. It demonstrates how data-driven insights can be used to understand factors affecting academic performance.
 
 ---
-\
+
 ## Features
 - Data generation using NumPy
 - Exploratory Data Analysis (EDA)
